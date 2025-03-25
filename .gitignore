@@ -1,0 +1,7 @@
+/target
+/bin
+/tmp
+/.git
+
+.direnv
+.env
